@@ -1,2 +1,2 @@
 # Student Management
-This is a student Management Project built in Python using tkinter.
+This is a Student Management Project built in Python using tkinter.
